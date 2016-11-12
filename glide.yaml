@@ -1,0 +1,8 @@
+package: github.com/koudaiii/k8secreator
+import:
+- package: k8s.io/client-go
+  subpackages:
+  - 1.4/kubernetes
+  - 1.4/pkg/api
+  - 1.4/pkg/api/v1
+  - 1.4/tools/clientcmd

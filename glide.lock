@@ -1,0 +1,11 @@
+hash: 81fc67568d303c09d0abadb9d654fc6f268fdb5255e1a355ab3b81738249b90a
+updated: 2016-10-30T22:40:11.582423416+09:00
+imports:
+- name: k8s.io/client-go
+  version: f11d57fed7928f0c9bc19e0b1e82ae330427262c
+  subpackages:
+  - 1.4/kubernetes
+  - 1.4/pkg/api
+  - 1.4/pkg/api/v1
+  - 1.4/tools/clientcmd
+devImports: []
